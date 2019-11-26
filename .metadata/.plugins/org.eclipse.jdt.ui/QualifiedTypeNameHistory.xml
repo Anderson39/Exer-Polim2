@@ -5,9 +5,13 @@
     <fullyQualifiedTypeName name="Entities.Account"/>
     <fullyQualifiedTypeName name="Entities.SavingsAccount"/>
     <fullyQualifiedTypeName name="Entities.BusinessAccount"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="sun.security.util.Length"/>
     <fullyQualifiedTypeName name="Entities.OutsourceEmployee"/>
     <fullyQualifiedTypeName name="Entities.Employee"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Entities.ImportedProduct"/>
 </qualifiedTypeNameHistroy>
